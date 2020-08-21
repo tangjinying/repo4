@@ -16,5 +16,6 @@ public class FirstGit {
     public void test(){
         int i = 0;
         i++;
+        System.out.println("去远程");
     }
 }
